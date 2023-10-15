@@ -1,18 +1,4 @@
-**ĐẠI HỌC QUỐC GIA TP.HCM              ![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.001.png)**TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN 
-
-![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.002.png)
-
-**ĐỒ ÁN MÔN HỌC** 
-
-**LẬP TRÌNH MẠNG CĂN BẢN** 
-
-**JUMPKING ONLINE WITH UNITY NHÓM 2** 
-
-`                                 `Giáo viên hướng dẫn – Đặng Lê Bảo Chương** 
-
-Sinh viên thực hiện: 
-
-21522797 – Lê Huỳnh Quang Vũ 
+﻿**JUMPKING ONLINE WITH UNITY** 
 
 Mục lục 
 
@@ -37,17 +23,17 @@ Mục lục
 1. **Giới<a name="_page2_x97.00_y223.00"></a> thiệu về trò chơi** 
 - **Nhân vật:** King và Knight.** 
 
-![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.003.png)
+![](MD/Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.003.png)
 
 *Figure 1: Knight character* 
 
-![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.004.png)
+![](MD/Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.004.png)
 
 *Figure 2: King character* 
 
 - **Bản đồ:** Redcrow Woods.** 
 
-![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.005.jpeg)
+![](MD/Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.005.jpeg)
 
 *Figure 3: Redcrow Woods map* 
 
@@ -69,21 +55,21 @@ Mục lục
 
 <a name="_page4_x97.00_y71.00"></a>**Một số hình ảnh minh họa:**  
 
-![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.006.jpeg)
+![](MD/Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.006.jpeg)
 
 *Figure 4: Create and Join game room* 
 
-![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.007.jpeg)
+![](MD/Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.007.jpeg)
 
 *Figure 5: Game lobby* 
 
-![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.008.jpeg)
+![](MD/Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.008.jpeg)
 
 *Figure 6: Pause game* 
 
 2. **Mô<a name="_page5_x97.00_y354.00"></a> hình phân rã chức năng (BFD)** 
 
-![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.009.png)
+![](MD/Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.009.png)
 
 *Figure 7: Game BFD* 
 
@@ -156,7 +142,7 @@ Mục lục
 
 ***(Xem ở trang kế tiếp …)*** 
 
-![](Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.010.png)
+![](MD/Aspose.Words.0f2264f7-57f5-4ecd-bf6d-fd0698379140.010.png)
 
 3. **Phân<a name="_page10_x97.00_y71.00"></a> chia công việc** 
 
@@ -170,4 +156,3 @@ Mục lục
 
 ***Source code:[*** JumpKing-Online/Assets at master · tuitenrein/JumpKing-Online (github.com) ](https://github.com/tuitenrein/JumpKing-Online/tree/master/Assets)***
 11 
-
