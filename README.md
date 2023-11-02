@@ -136,5 +136,5 @@
 
 ***Video demo*:[ https://drive.google.com/file/d/1auDn2UTejUFmqPWJiGwy- PbYFSz_Qs_t/view?usp=sharing ](https://drive.google.com/file/d/1auDn2UTejUFmqPWJiGwy-PbYFSz_Qs_t/view?usp=sharing)**
 
-***Source code:[*** JumpKing-Online/Assets at master · tuitenrein/JumpKing-Online (github.com) ](https://github.com/tuitenrein/jumking-online/)***
+***Source code:[*** JumpKing-Online/Assets at master · tuitenrein/JumpKing-Online (github.com) ](https://github.com/tuitenrein/jumking-online/tree/main/Assets)***
 11 
